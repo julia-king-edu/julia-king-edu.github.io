@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome
+Welcome
+====
 
 Welcome to my personal website! I am a final year graduate student studying within the M.Sc. Social and Economic Data Science program at the University of Konstanz. With a profound interest in network analysis and a passion for working with social media data, my research aims to uncover the complex patterns and interactions that shape our digital world. My academic journey has equipped me with a robust foundation in computer science, statistics, and social science methods, enabling me to extract meaningful insights from large datasets to inform decision-making processes in both academic and practical contexts.
 
