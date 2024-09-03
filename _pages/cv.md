@@ -11,37 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sc. Social and Economic Data Science, University of Konstanz, 2024 (expected)
+* B.Ed. Political Science \& English, University of Konstanz, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Winter 2024: Research Assistant
+  * University of Konstanz
+  * Supervisor: Prof. Termeh Shafie
+  
+* Summer 2020, 21, 22, 23, 24: Tutor (Statistics)
+  * University of Konstanz
+  * Head Tutor in 2024
+  * Supervisor: Prof. Susumu Shikano & Prof. Termeh Shafie
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Winter 2021, 22, 23: Tutor (Empirical Research Methods)
+  * University of Konstanz
+  * Supervisor: Prof. Susumu Shikano
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Network Analysis
+* Social Media Data Analysis
+* Natural Language Processing
+* Teaching
+  * years of experience
+  * didactic training during B.Ed.
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -51,14 +48,10 @@ Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
