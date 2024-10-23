@@ -39,11 +39,11 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date }} </p>
+          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.custom-date }} </p>
         {% elsif post.collection == 'publications' %}
-          <p>Published in <i>{{ post.venue }}</i>, {{ post.date }} </p>
-        {% elsif post.date %}
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date }}">{{ post.date }}</time></p>
+          <p>Published in <i>{{ post.venue }}</i>, {{ post.custom-date }} </p>
+        {% elsif post.custom-date %}
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.custom-date }}">{{ post.custom-date }}</time></p>
         {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
