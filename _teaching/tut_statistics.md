@@ -4,7 +4,7 @@ collection: teaching
 type: "Tutorials for undergraduate course"
 permalink: /teaching/tut_statistics
 venue: "University of Konstanz, Center for Data and Methods"
-custom_date: "2020-2024"
+custom-date: "2020-2024"
 location: "Konstanz, Germany"
 ---
 
