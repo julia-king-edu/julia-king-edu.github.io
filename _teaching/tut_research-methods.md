@@ -4,7 +4,7 @@ collection: teaching
 type: "Tutorials for undergraduate course"
 permalink: /teaching/tut_research-methods
 venue: "University of Konstanz, Center for Data and Methods"
-date: "2020-01-01"
+date: "2020-2024"
 location: "Konstanz, Germany"
 ---
 
